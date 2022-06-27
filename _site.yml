@@ -2,7 +2,7 @@ name: "."
 title: "Title of My Final Project, gh_pages = TRUE"
 description: |
   Title of My Final Project, gh_pages = TRUE
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
