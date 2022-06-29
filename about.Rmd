@@ -10,5 +10,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{r}
 ## About Me
+
+"My name is **Henry Sippel**. I just graduated from high school in may and plan on attending University of Utah in the fall. I enjoy skiing, sailing and listening to music in my free time."
+
+## About the Project
+"My project, *title of my project* and description of project"
+### Goals
+"*Goal 1
+  +"
+"**Goal 2"
+"This is data science"  
+~Preceptor
+
+#[Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info)
 ```
 
