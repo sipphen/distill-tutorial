@@ -5,16 +5,16 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-27T13:24:46-04:00"
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-29T14:34:57-04:00"
     },
     {
       "path": "index.html",
-      "title": "Title of My Final Project, gh_pages = TRUE",
+      "title": "Title of My Final Project",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-27T13:24:48-04:00"
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-29T14:35:01-04:00"
     }
   ],
   "collections": []
