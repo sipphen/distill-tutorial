@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n[1] \"My name is **Henry Sippel**. I just graduated from high school in may and plan on attending University of Utah in the fall. I enjoy skiing, sailing and listening to music in my free time.\"\r\n[1] \"My project, *title of my project* and description of project\"\r\n[1] \"*Goal 1\\n  +\"\r\n[1] \"**Goal 2\"\r\n[1] \"This is data science\"\r\n~Preceptor\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-29T15:09:49-04:00"
+      "last_modified": "2022-06-29T15:57:14-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,35 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-29T15:09:53-04:00"
+      "last_modified": "2022-06-29T15:57:19-04:00"
+    },
+    {
+      "path": "source_A.html",
+      "title": "Source A",
+      "description": "Detailed notes for Source A.\n",
+      "author": [
+        {
+          "name": "Henry Sippel",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-29T15:57:20-04:00"
+    },
+    {
+      "path": "source_B.html",
+      "title": "Source B",
+      "description": "Detailed notes for Source B.\n",
+      "author": [
+        {
+          "name": "Henry Sippel",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-29T15:57:21-04:00"
     }
   ],
   "collections": []
