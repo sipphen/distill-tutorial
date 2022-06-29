@@ -9,6 +9,7 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 library(tidyverse)
 library(ggthemes)
+library(knitr)
 # Learn more about creating websites with Distill at:
 # https://rstudio.github.io/distill/website.html
 
@@ -17,14 +18,16 @@ library(ggthemes)
 ```
 
 ```{r car-plot}
-mtcars %>% 
-    select(mpg, wt) %>% 
-    ggplot(aes(x = wt, y = mpg)) +
-    geom_point() +
-    geom_smooth(method = "lm", formula = y ~ x, se = FALSE) +
-    theme_clean() +
-    labs(title = "Fuel Efficiency and Weight",
-        subtitle = "Heavier cars are less fuel efficient",
-        x = "Weight (1000s of lbs)", y = "MPG", caption = "Henderson and Vellerman (1981)")
+car_plot <- read_rds("car-plot.rds") 
+
+car_plot
+
+ggsave("car-plot.png", plot = car_plot)
 ```
+
+```{r image}
+include_graphics("images/car-plot.png")
+
+```
+
 

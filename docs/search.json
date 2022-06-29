@@ -13,8 +13,8 @@
       "title": "Title of My Final Project",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-29T15:57:19-04:00"
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-29T16:38:22-04:00"
     },
     {
       "path": "source_A.html",
@@ -27,8 +27,8 @@
         }
       ],
       "date": "`r Sys.Date()`",
-      "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-29T15:57:20-04:00"
+      "contents": "\r\nSource A was Primer.data. It was flawless.(Kane 2020)\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n(Jones\r\n2018)\r\n\r\n\r\n\r\nJones, Nora. 2018. “Distill for r Markdown.” Journal of\r\nData Science Software. https://doi.org/10.23915/distill.00010.\r\n\r\n\r\nKane, David. 2020. Primer.data.\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-29T16:46:07-04:00"
     },
     {
       "path": "source_B.html",
