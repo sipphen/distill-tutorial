@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\n\r\n[1] \"My name is **Henry Sippel**. I just graduated from high school in may and plan on attending University of Utah in the fall. I enjoy skiing, sailing and listening to music in my free time.\"\r\n[1] \"My project, *title of my project* and description of project\"\r\n[1] \"*Goal 1\\n  +\"\r\n[1] \"**Goal 2\"\r\n[1] \"This is data science\"\r\n~Preceptor\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-29T15:57:14-04:00"
+      "contents": "\r\nAbout Me\r\nMy name is Henry\r\nSippel. I just graduated from high school in may and plan\r\non attending University of Utah in the fall. I enjoy skiing, sailing and\r\nlistening to music in my free time.\r\nAbout the Project\r\nMy project, title of my project and description of project\r\n### Goals *Goal 1 + **Goal 2 This is data science ~Preceptor\r\n#Kane’s Free High School\r\nData Science Bootcamp\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-05T14:12:51-04:00"
     },
     {
       "path": "index.html",
