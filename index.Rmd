@@ -23,7 +23,7 @@ fish_plot <- read_rds("fish-plot.rds")
 fish_plot
 
 
-ggsave("fish-plot.png", plot = fish_plot)
+ggsave("fish-plot.png", width = 9, height = 9)
 ```
 
 ```{r image}
