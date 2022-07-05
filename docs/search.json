@@ -13,8 +13,8 @@
       "title": "Title of My Final Project",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-29T16:38:22-04:00"
+      "contents": "\r\n\r\n# A tibble: 2,126 × 16\r\n    Year Lake     Species `Green Bay (MI)` `Mich. Proper (MI)`\r\n   <dbl> <chr>    <chr>              <dbl>               <dbl>\r\n 1  1956 Michigan Alewife                0                   0\r\n 2  1957 Michigan Alewife               22                  12\r\n 3  1958 Michigan Alewife              365                  13\r\n 4  1959 Michigan Alewife              520                   4\r\n 5  1960 Michigan Alewife             1594                  85\r\n 6  1961 Michigan Alewife              725                 357\r\n 7  1962 Michigan Alewife             1070                 325\r\n 8  1963 Michigan Alewife             1175                 403\r\n 9  1964 Michigan Alewife             1162                2168\r\n10  1965 Michigan Alewife              703                2437\r\n# … with 2,116 more rows, and 11 more variables:\r\n#   `MI State Total` <dbl>, `Green Bay (WI)` <dbl>,\r\n#   `Mich. Proper (WI)` <dbl>, `WI State Total` <dbl>,\r\n#   `Illinois (IL)` <dbl>, `Indiana (IN)` <dbl>, `U.S. Total` <dbl>,\r\n#   `Comments:` <chr>, ...14 <dbl>, ...15 <dbl>, ...16 <dbl>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-05T13:57:50-04:00"
     },
     {
       "path": "source_A.html",
