@@ -17,17 +17,22 @@ library(knitr)
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 ```
 
-```{r car-plot}
-car_plot <- read_rds("car-plot.rds") 
+```{r fish-plot}
+fish_plot <- read_rds("fish-plot.rds")
 
-car_plot
+fish_plot
 
-ggsave("car-plot.png", plot = car_plot)
+
+ggsave("fish-plot.png", plot = fish_plot)
 ```
 
 ```{r image}
-include_graphics("images/car-plot.png")
-
+include_graphics("images/fish-plot.png")
 ```
+
+
+
+
+
 
 
