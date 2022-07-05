@@ -10,7 +10,7 @@ michigan <- read_excel("michigan.xlsx", col_types = c("numeric",
                   "numeric", "numeric", "numeric", "numeric", 
                    "numeric", "numeric", "numeric", "text", 
                    "numeric", "numeric", "numeric"))
-View(michigan)
+view(michigan)
 
 
 fish_plot <- michigan |> 
