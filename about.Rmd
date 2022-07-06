@@ -24,6 +24,6 @@ My project, *Looking at Fish Stocking data in Lake Michigan* aims to look at the
 "This is Data Science" 
 ~Preceptor
 
- [Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info)
+#[Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info)
 
 

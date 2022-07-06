@@ -3,6 +3,7 @@ library(ggthemes)
 library(readxl)
 library(dplyr)
 library(plotly)
+library(rvest)
 
 
 michigan <- read_excel("michigan.xlsx", col_types = c("numeric", 
