@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\nAbout Me\r\nMy name is Henry\r\nSippel. I just graduated from high school in may and plan\r\non attending University of Utah in the fall. I enjoy skiing, sailing and\r\nlistening to music in my free time.\r\nAbout the Project\r\nMy project, title of my project and description of project\r\n### Goals *Goal 1 + **Goal 2 This is data science ~Preceptor\r\n#Kane’s Free High School\r\nData Science Bootcamp\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-05T14:14:59-04:00"
+      "contents": "\r\nAbout Me\r\nMy name is Henry\r\nSippel. I just graduated from high school in may and plan\r\non attending University of Utah in the fall. I enjoy skiing, sailing and\r\nlistening to music in my free time.\r\nAbout the Project\r\nMy project, Looking at Fish Stocking data in Lake Michigan\r\naims to look at the different fish stocked in Lake Michigan, and the\r\ntrends of the population of fish stocked.\r\nGoals\r\nVisualize the number of fish stocked into the lake over time\r\nLook at the change in fish stocking throughout different\r\nspecies\r\nDetermine if there is a connection between fish stocking and years\r\npassed\r\n“This is Data Science” ~Preceptor\r\nKane’s Free High School\r\nData Science Bootcamp\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-06T13:54:36-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-05T14:06:50-04:00"
+      "last_modified": "2022-07-05T19:55:36-04:00"
     },
     {
       "path": "source_A.html",
