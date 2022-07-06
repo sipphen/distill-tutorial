@@ -1,7 +1,7 @@
 ---
-title: "Title of My Final Project"
+title: "Fish Stocking Data in Lake Michigan"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Welcome to the website. 
 site: distill::distill_website
 ---
 
