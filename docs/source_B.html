@@ -86,6 +86,27 @@ code span.vs { color: #20794d; } /* VerbatimString */
 code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
+<style>
+  div.csl-bib-body { }
+  div.csl-entry {
+    clear: both;
+    }
+  .hanging div.csl-entry {
+    margin-left:2em;
+    text-indent:-2em;
+  }
+  div.csl-left-margin {
+    min-width:2em;
+    float:left;
+  }
+  div.csl-right-inline {
+    margin-left:2em;
+    padding-left:1em;
+  }
+  div.csl-indent {
+    margin-left: 2em;
+  }
+</style>
 
   <!--radix_placeholder_meta_tags-->
   <title>Fish Stocking Data in Lake Michigan: Source B</title>
@@ -93,10 +114,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <meta property="description" itemprop="description" content="Detailed notes for Source B."/>
 
 
-  <!--  https://schema.org/Article -->
-  <meta property="article:published" itemprop="datePublished" content="2022-07-07"/>
-  <meta property="article:created" itemprop="dateCreated" content="2022-07-07"/>
-  <meta name="article:author" content="Henry Sippel"/>
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
   <meta property="og:title" content="Fish Stocking Data in Lake Michigan: Source B"/>
@@ -111,10 +128,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <meta property="twitter:description" content="Detailed notes for Source B."/>
 
   <!--/radix_placeholder_meta_tags-->
+  
+  <meta name="citation_reference" content="citation_title=Great-lakes database;citation_publication_date=2018;citation_publisher="/>
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Source B"]},{"type":"character","attributes":{},"value":["Detailed notes for Source B.\n"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name"]}},"value":[{"type":"character","attributes":{},"value":["Henry Sippel"]}]}]},{"type":"character","attributes":{},"value":["2022-07-07"]},{"type":"character","attributes":{},"value":["distill::distill_article"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output","bibliography"]}},"value":[{"type":"character","attributes":{},"value":["Source B"]},{"type":"character","attributes":{},"value":["Detailed notes for Source B.\n"]},{"type":"character","attributes":{},"value":["distill::distill_article"]},{"type":"character","attributes":{},"value":["bibliography.bib"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2091,7 +2110,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Source B","description":"Detailed notes for Source B.","authors":[{"author":"Henry Sippel","authorURL":"#","affiliation":"&nbsp;","affiliationURL":"#","orcidID":""}],"publishedDate":"2022-07-07T00:00:00.000-04:00","citationText":"Sippel, 2022"}
+{"title":"Source B","description":"Detailed notes for Source B.","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2130,20 +2149,24 @@ Sources
 <p><p>Detailed notes for Source B.</p></p>
 </div>
 
-<div class="d-byline">
-  Henry Sippel  
-  
-<br/>2022-07-07
-</div>
 
 <div class="d-article">
-<p>Distill is a publication format for scientific and technical writing,
-native to the web.</p>
-<p>Learn more about using Distill for R Markdown at <a
-href="https://rstudio.github.io/distill"
-class="uri">https://rstudio.github.io/distill</a>.</p>
+<p>Source B was from <a
+href="http://www.glfc.org/great-lakes-databases.php">Great Lakes Fishery
+Commission</a>.</p>
+<p>It lists all of the fish species stocked into Lake Michigan from 1890
+to 2018.<span class="citation" data-cites="fisherycommission">(<a
+href="#ref-fisherycommission" role="doc-biblioref"><em>Great-Lakes
+Database</em> 2018</a>)</span></p>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div id="refs" class="references csl-bib-body hanging-indent"
+role="doc-bibliography">
+<div id="ref-fisherycommission" class="csl-entry"
+role="doc-biblioentry">
+<em>Great-Lakes Database</em>. 2018.
+</div>
+</div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
@@ -2155,7 +2178,10 @@ class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"><
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->
 <!--radix_placeholder_appendices-->
-<div class="appendix-bottom"></div>
+<div class="appendix-bottom">
+<h3 id="references">References</h3>
+<div id="references-listing"></div>
+</div>
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
 <!--/radix_placeholder_navigation_after_body-->

@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\nAbout Me\r\nMy name is Henry\r\nSippel. I just graduated from high school in may and plan\r\non attending University of Utah in the fall. I enjoy skiing, sailing and\r\nlistening to music in my free time.\r\nAbout the Project\r\nMy project, Looking at Fish Stocking data in Lake Michigan\r\naims to look at the different fish stocked in Lake Michigan, and the\r\ntrends of the population of fish stocked.\r\nGoals\r\nVisualize the number of fish stocked into the lake over time\r\nLook at the change in fish stocking throughout different\r\nspecies\r\nDetermine if there is a connection between fish stocking and years\r\npassed\r\n“This is Data Science” ~Preceptor\r\n#Kane’s Free High School\r\nData Science Bootcamp\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-07T00:31:19-04:00"
+      "last_modified": "2022-07-07T13:38:22-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "Welcome to the website. \n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-07T00:31:22-04:00"
+      "last_modified": "2022-07-07T13:38:25-04:00"
     },
     {
       "path": "source_A.html",
@@ -27,22 +27,16 @@
         }
       ],
       "date": "`r Sys.Date()`",
-      "contents": "\r\nSource A was Primer.data. It was flawless.(Kane 2020)\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n(Jones\r\n2018)\r\n\r\n\r\n\r\nJones, Nora. 2018. “Distill for r Markdown.” Journal of\r\nData Science Software. https://doi.org/10.23915/distill.00010.\r\n\r\n\r\nKane, David. 2020. Primer.data.\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-07T00:31:24-04:00"
+      "contents": "\r\nSource A was Primer.data. It was flawless.(Kane 2020)\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n(jones2018distill?)\r\n\r\n\r\n\r\nKane, David. 2020. Primer.data.\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-07T13:38:27-04:00"
     },
     {
       "path": "source_B.html",
       "title": "Source B",
       "description": "Detailed notes for Source B.\n",
-      "author": [
-        {
-          "name": "Henry Sippel",
-          "url": {}
-        }
-      ],
-      "date": "`r Sys.Date()`",
-      "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-07T00:31:25-04:00"
+      "author": [],
+      "contents": "\r\nSource B was from Great Lakes Fishery\r\nCommission.\r\nIt lists all of the fish species stocked into Lake Michigan from 1890\r\nto 2018.(Great-Lakes\r\nDatabase 2018)\r\n\r\n\r\n\r\nGreat-Lakes Database. 2018.\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-07T13:38:28-04:00"
     }
   ],
   "collections": []
