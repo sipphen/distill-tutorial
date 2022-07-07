@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 My name is [**Henry Sippel**](https://github.com/sipphen). I just graduated from high school in May and plan on attending University of Utah in the fall. I enjoy skiing, sailing and listening to music in my free time.
 
 ## About the Project
-My project, *Looking at Fish Stocking data in Lake Michigan* aims to look at the different fish stocked in Lake Michigan, and the trends of the population of fish stocked. 
+My project, *Looking at Fish Stocking data in Lake Michigan* aims to look at the different fish stocked in Lake Michigan, and the trends of the population of fish stocked. I sourced my data from an excel spreadsheet, which I then downloaded through RStudio and then made my graph and website. 
 
 ## Goals
 * Visualize the number of fish stocked into the lake over time
@@ -24,6 +24,6 @@ My project, *Looking at Fish Stocking data in Lake Michigan* aims to look at the
 "This is Data Science" 
 ~Preceptor
 
-#[Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info)
+[Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info)
 
 
