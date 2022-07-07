@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\nAbout Me\r\nMy name is Henry\r\nSippel. I just graduated from high school in may and plan\r\non attending University of Utah in the fall. I enjoy skiing, sailing and\r\nlistening to music in my free time.\r\nAbout the Project\r\nMy project, Looking at Fish Stocking data in Lake Michigan\r\naims to look at the different fish stocked in Lake Michigan, and the\r\ntrends of the population of fish stocked.\r\nGoals\r\nVisualize the number of fish stocked into the lake over time\r\nLook at the change in fish stocking throughout different\r\nspecies\r\nDetermine if there is a connection between fish stocking and years\r\npassed\r\n“This is Data Science” ~Preceptor\r\n#Kane’s Free High School\r\nData Science Bootcamp\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-07T13:44:35-04:00"
+      "contents": "\r\nAbout Me\r\nMy name is Henry\r\nSippel. I just graduated from high school in May and plan\r\non attending University of Utah in the fall. I enjoy skiing, sailing and\r\nlistening to music in my free time.\r\nAbout the Project\r\nMy project, Looking at Fish Stocking data in Lake Michigan\r\naims to look at the different fish stocked in Lake Michigan, and the\r\ntrends of the population of fish stocked. I sourced my data from an\r\nexcel spreadsheet, which I then downloaded through RStudio and then made\r\nmy graph and website.\r\nGoals\r\nVisualize the number of fish stocked into the lake over time\r\nLook at the change in fish stocking throughout different\r\nspecies\r\nDetermine if there is a connection between fish stocking and years\r\npassed\r\n“This is Data Science” ~Preceptor\r\nKane’s Free High School\r\nData Science Bootcamp\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-07T15:11:31-04:00"
     },
     {
       "path": "index.html",
@@ -14,21 +14,15 @@
       "description": "Welcome to the website. \n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-07T13:44:39-04:00"
+      "last_modified": "2022-07-07T15:11:34-04:00"
     },
     {
       "path": "source_A.html",
       "title": "Source A",
       "description": "Detailed notes for Source A.\n",
-      "author": [
-        {
-          "name": "Henry Sippel",
-          "url": {}
-        }
-      ],
-      "date": "`r Sys.Date()`",
+      "author": [],
       "contents": "\r\nSource A was Primer.data. It was flawless.(Kane 2020)\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n(jones2018distill?)\r\n\r\n\r\n\r\nKane, David. 2020. Primer.data.\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-07T13:44:40-04:00"
+      "last_modified": "2022-07-07T15:11:35-04:00"
     },
     {
       "path": "source_B.html",
@@ -36,7 +30,7 @@
       "description": "Detailed notes for Source B.\n",
       "author": [],
       "contents": "\r\nSource B was from Great Lakes Fishery\r\nCommission.\r\nIt lists all of the fish species stocked into Lake Michigan from 1890\r\nto 2018.(Great-Lakes\r\nDatabase 2018)\r\n\r\n\r\n\r\nGreat-Lakes Database. 2018.\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-07T13:44:41-04:00"
+      "last_modified": "2022-07-07T15:11:36-04:00"
     }
   ],
   "collections": []
